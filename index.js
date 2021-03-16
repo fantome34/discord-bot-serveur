@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = require("./token.json")
 const bdd = require("./bdd.json");
 const fs = require("fs");
 
